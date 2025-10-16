@@ -38,6 +38,8 @@ Projekt przygotowany do pracy w VSCode.
 
 5. Otwórz frontend w przeglądarce:
    http://127.0.0.1:5000/static/index.html
+# Uruchomienie projektu (WEB):
+https://project-kino-crud-timur-tkachov.onrender.com/static/index.html   
 
 # Migracja SQL
 W katalogu znajduje się plik `migrations/create_table_movies.sql` z definicją tabeli.
